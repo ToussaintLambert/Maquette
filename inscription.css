@@ -1,0 +1,42 @@
+table{
+    border:   solid rgb(82, 82, 82) 1px;
+    width: 550px;
+    height: 500px; 
+    border-collapse: collapse;
+}
+tr{
+    height: 5px;   
+}
+.ins{
+    background-color: rgb(72, 153, 245);
+    color: honeydew;  
+}
+input{
+    width: 500px;
+    margin-left: 20px;
+    height: 30px;
+    border: 1px solid grey;
+    border-radius: 5px ;
+    
+}
+button{
+    height: 35px;
+    width: 105px;
+    margin-left:  430px;
+    border-radius: 5px;
+    border: 1px solid ;
+    background-color:rgb(72, 153, 245) ;
+    color: honeydew; 
+}
+a{
+    text-decoration: none;
+    color: honeydew;  
+}
+.down{
+    background-color: rgb(72, 153, 245);
+    height: 50px;
+    color: honeydew;
+}
+.push{
+    margin-left: 310px;  
+}

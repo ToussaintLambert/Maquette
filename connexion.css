@@ -1,0 +1,43 @@
+table{
+    border-collapse: collapse;
+    border:  1px solid   grey;
+    width: 370px;
+    height: 400px; 
+}
+.connexion{
+    background-color: rgb(101, 169, 247);
+    color: honeydew;
+    height: 30px;
+}
+input{
+    width: 335px;
+    margin-left: 10px;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid grey;
+}
+button{
+    margin-left: 250px;
+    height: 35px;
+    width: 100px;
+    background-color: rgb(101, 169, 247);
+    border: 1px solid rgb(101, 169, 247);
+    border-radius: 5px;
+}
+a{
+    text-decoration: none;
+    color: honeydew;
+}
+.down{
+    background-color:rgb(101, 169, 247) ;
+    height: 50px;
+}
+.push{
+    margin-left: 100px;
+}
+h6{
+    color: rgb(180, 180, 184);
+}
+.push1{
+    margin-left: 50px;
+}
